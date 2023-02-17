@@ -2,4 +2,4 @@
 
 ## GIT is a free software distributed under GPL.
 
-## GIT has a mutable index called storage !123
+## GIT has a mutable index called storage !123456
