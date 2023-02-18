@@ -6,3 +6,5 @@ create a new branch is quick and simple
 day1  
 day2
 kill bug G
+issue1 done
+issue2 done
