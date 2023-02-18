@@ -1,4 +1,4 @@
 # learngit
 
 test -u  
-test create a new branch in remote origin
+test create a *new* branch in remote origin
