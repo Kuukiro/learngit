@@ -8,3 +8,4 @@ day2
 kill bug G  
 issue1 done  
 issue2 done
+issue3 done
